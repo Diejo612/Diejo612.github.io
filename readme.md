@@ -1,5 +1,5 @@
-# Dasmoto's Arts & Crafts
-Simple project where I build a website for a fictional arts ands crafts store.
+# My profile page
+Simple project where I build a website for my profile
 
 ## Technologies
 
